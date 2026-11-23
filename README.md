@@ -1,4 +1,4 @@
-# mdcheck
+# Amdcheck
 
 A minimal markdown link checker written in Rust.
 
